@@ -31,7 +31,7 @@ ASSINGNMENT 4
 
 ## LINKS
 
-|   TEAM MEMBERS:|LINK                                                                                                                               |
+|  TEAM MEMBERS :|LINK                                                                                                                               |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------|
 |       BENEDIT.R|[CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-47902-1660803159/tree/main/Assignments/Team%20Lead(R.Benedit))               |
 |       VIGNESH.S|[CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-47902-1660803159/tree/main/Assignments/Team%20Member%203(S.Vignesh))         |
