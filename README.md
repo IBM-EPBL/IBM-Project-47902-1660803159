@@ -21,13 +21,13 @@ Team Member : GANESH.M
 
 ## ASSINGNMENT FINISHED
 
-ASSINGNMENT 1
+:heavy_check_mark: ASSINGNMENT 1
 
-ASSINGNMENT 2
+:heavy_check_mark: ASSINGNMENT 2
 
-ASSINGNMENT 3
+:heavy_check_mark: ASSINGNMENT 3
 
-ASSINGNMENT 4
+:heavy_check_mark: ASSINGNMENT 4
 
 ## LINKS
 
@@ -40,13 +40,13 @@ ASSINGNMENT 4
 
 ## PRE-REQUISITES
 
-IBM Cloud Services
+:eight_spoked_asterisk: IBM Cloud Services
 
-MIT App Inventor
+:eight_spoked_asterisk: MIT App Inventor
 
-Software
+:eight_spoked_asterisk: Software
 
-Create An Account In Fast2sms Dashboard
+:eight_spoked_asterisk: Create An Account In Fast2sms Dashboard
 
 ## CREATE AND CONFIGURE IBM CLOUD SERVICE
 
