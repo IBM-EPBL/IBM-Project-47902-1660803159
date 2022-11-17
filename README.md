@@ -15,11 +15,11 @@ Team Member : SIVANESH KUMAR.K
 
 Team Member : GANESH.M
 
-## SKILLS REQUIRED
+## :scroll: SKILLS REQUIRED
 
 - Python,IBM Cloud,IBM IoT Platform,IBM Nodered,IBM Cloudant DB
 
-## ASSINGNMENT FINISHED
+## :page_with_curl:	ASSINGNMENT FINISHED
 
 :heavy_check_mark: ASSINGNMENT 1
 
@@ -29,7 +29,7 @@ Team Member : GANESH.M
 
 :heavy_check_mark: ASSINGNMENT 4
 
-## LINKS
+## :link: LINKS
 
 |  TEAM MEMBERS :|LINK                                                                                                                               |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ Team Member : GANESH.M
 |SIVANESH KUMAR.K|[CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-47902-1660803159/tree/main/Assignments/Team%20Member%202(K.Sivanesh%20Kumar))|
 |        GANESH.M|[CLICK HERE!](https://github.com/IBM-EPBL/IBM-Project-47902-1660803159/tree/main/Assignments/Team%20Member%201(M.Ganesh))          |
 
-## PRE-REQUISITES
+## :books: PRE-REQUISITES
 
 :eight_spoked_asterisk: IBM Cloud Services
 
@@ -48,61 +48,61 @@ Team Member : GANESH.M
 
 :eight_spoked_asterisk: Create An Account In Fast2sms Dashboard
 
-## CREATE AND CONFIGURE IBM CLOUD SERVICE
+## :page_with_curl:	CREATE AND CONFIGURE IBM CLOUD SERVICE
 
-Create The IBM Watson IoT Platform And A Device
+:eight_pointed_black_star: Create The IBM Watson IoT Platform And A Device
 
-Create Node-RED Service
+:eight_pointed_black_star: Create Node-RED Service
 
-## DEVELOP A PYTHON SCRIPT TO PUBLISH AND SUBSCRIBE TO IBM IOT PLATFORM
+## :books: DEVELOP A PYTHON SCRIPT TO PUBLISH AND SUBSCRIBE TO IBM IOT PLATFORM
 
-Develop The Python Code
+:eight_pointed_black_star: Develop The Python Code
 
-## BUILD A WEB APPLICATION USING NODE-RED SERVICE
+## :page_with_curl:	BUILD A WEB APPLICATION USING NODE-RED SERVICE
 
-## DEVELOP A WEB APPLICATION
+## :books: DEVELOP A WEB APPLICATION
 
-## IDEATION PHASE
+## :page_with_curl:	IDEATION PHASE
 
-Literature Survey On The Selected Project & Information Gathering
+:sparkle: Literature Survey On The Selected Project & Information Gathering
 
-Prepare Empathy Map
+:sparkle: Prepare Empathy Map
 
-Ideation
+:sparkle: Ideation
 
-## PROJECT DESINGN PHASE 01
+## :dart: PROJECT DESINGN PHASE 01
 
-Proposed Solution
+:radio_button: Proposed Solution
 
-Problem Solution Fit
+:radio_button: Problem Solution Fit
 
-Solution Architecture
+:radio_button: Solution Architecture
 
-## PROJECT DESINGN PHASE 02
+## :dart: PROJECT DESINGN PHASE 02
 
-Customer Journey
+:pushpin: Customer Journey
 
-Functional Requirement
+:pushpin: Functional Requirement
 
-Data Flow Diagrams
+:pushpin: Data Flow Diagrams
 
-Technology Architecture
+:pushpin: Technology Architecture
 
-## PROJECT PLANNING PHASE
+## :dart: PROJECT PLANNING PHASE
 
-Prepare Milestone & Activity List
+:large_orange_diamond: Prepare Milestone & Activity List
 
-Sprint Delivery Plan
+:large_orange_diamond: Sprint Delivery Plan
 
-## PROJECT DEVELOPMENT PHASE
+## :dart: PROJECT DEVELOPMENT PHASE
 
-Project Development - Delivery Of Sprint 1
+:nazar_amulet: Project Development - Delivery Of Sprint 1
 
-Project Development - Delivery Of Sprint 2
+:nazar_amulet: Project Development - Delivery Of Sprint 2
 
-Project Development - Delivery Of Sprint 3
+:nazar_amulet: Project Development - Delivery Of Sprint 3
 
-Project Development - Delivery Of Sprint 4
+:nazar_amulet: Project Development - Delivery Of Sprint 4
 
 
 
