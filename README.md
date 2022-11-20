@@ -105,5 +105,5 @@ Team Member : GANESH.M
 
 :nazar_amulet: Project Development - Delivery Of Sprint 4
 
-:heavy_check_mark:Demo link:[CLICK HERE!](https://youtu.be/8XyKJReIyMU)
+:heavy_check_mark:Project Demo link:[CLICK HERE!](https://youtu.be/8XyKJReIyMU)
 
