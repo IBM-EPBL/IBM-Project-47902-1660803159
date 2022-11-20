@@ -2,7 +2,7 @@
 ## SmartFarmer - IoT Enabled Smart Farming Application
 ![Precision-Agriculture-img 1](https://user-images.githubusercontent.com/114178640/202894830-3b7eb039-06f5-48c4-99e4-78aa6504988e.jpg)
 
-_TECNOLOGY : IOT
+**TECNOLOGY : IOT
 
 Team ID :PNT2022TMID52158
 
