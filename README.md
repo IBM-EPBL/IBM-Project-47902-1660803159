@@ -1,5 +1,6 @@
 # IBM-Project-47902-1660803159
 ## SmartFarmer - IoT Enabled Smart Farming Application
+![smart-farming-smart-agriculture-iot](https://user-images.githubusercontent.com/114178640/202894299-b5ac6daa-2d42-4b9d-9ab4-91dacbad5d34.jpg)
 
 TECNOLOGY : IOT
 
