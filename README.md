@@ -1,6 +1,6 @@
 # IBM-Project-47902-1660803159
 ## SmartFarmer - IoT Enabled Smart Farming Application
-
+/This PC/pictures/images
 TECNOLOGY : IOT
 
 Team ID :PNT2022TMID52158
